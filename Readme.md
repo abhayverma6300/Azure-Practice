@@ -36,8 +36,19 @@ This repository contains implementations of various Azure Cognitive Services inc
 - Libraries: Flask, Django, FastAPI, Azure SDKs for Cognitive Services
 
 ## Setup
-1. Install the required dependencies for each service.
-2. Set up environment variables for authentication keys and endpoints.
+1. Clone the repository:
+
+    ```
+    git clone https://github.com/abhayverma6300/Azure-Practice.git
+    cd your_repository
+    ```
+
+2. Install the required dependencies using `pip` and the provided `requirements.txt` file:
+
+    ```
+    pip install -r requirements.txt
+    ```
+3. Set up environment variables for authentication keys and endpoints.
 
 ## Usage
 1. Choose the service and framework combination according to your requirements.
