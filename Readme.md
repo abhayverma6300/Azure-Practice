@@ -40,7 +40,7 @@ This repository contains implementations of various Azure Cognitive Services inc
 
     ```
     git clone https://github.com/abhayverma6300/Azure-Practice.git
-    cd your_repository
+    cd Azure-Practice
     ```
 
 2. Install the required dependencies using `pip` and the provided `requirements.txt` file:
